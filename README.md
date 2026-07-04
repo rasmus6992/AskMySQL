@@ -1,5 +1,5 @@
 # AskMySQL — Secure Text-to-SQL for PHP and MySQL
-
+Live Demo: https://rasmus6992.com/randomaistuff/AskMySQL/public/ 
 A framework-free PHP 8 application that converts a natural-language reporting question into a MySQL `SELECT` query, validates it against the live database schema, executes it through PDO, and displays both the SQL and the result table.
 
 The application uses the OpenAI Responses API through native PHP cURL. No Composer package or OpenAI SDK is required.
